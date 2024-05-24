@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AWS Infrastructure Deployment with Terraform, Docker, and GitHub Actions**
 
-- 🌱 I’m currently learning **Terraform , Github Action, AWS , Ansible**
+- 🌱 I’m currently learning **Terraform , Github Action/Jenkins, AWS , Ansible and more :) **
 
 - 👨‍💻 All of my projects are available at [https://github.com/alexisundas](https://github.com/alexisundas)
 
